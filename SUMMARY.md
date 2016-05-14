@@ -8,6 +8,11 @@
 * [Capitulo n](guerra/n.md)
 
 
+## [Teoría del Duelo](duelo/README.md)
+
+* [Recuerdo mi muerte](duelo/recuerdo-mente.md)
+
+
 
 ## [Teoría de la Simbiosis](simbiosis/README.md)
 
