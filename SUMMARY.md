@@ -12,7 +12,9 @@
 
 * [Recuerdo mi muerte](duelo/recuerdo-mente.md)
 * [Personalidad](duelo/personalidad.md)
-
+* [Depresión](duelo/depresion.md)
+* [Declaración](duelo/declaracion.md)
+* [Asesinato](duelo/asesinato.md)
 
 ## [Teoría de la Simbiosis](simbiosis/README.md)
 
