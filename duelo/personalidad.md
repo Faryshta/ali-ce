@@ -1,8 +1,5 @@
 # Personalidad
 
-3251 días antes de AliCe0
-
-
 El vídeo muestra imagenes de varios profesionales discutiendo acaloradamente. aunque no necesariamente parece que pelean en este tema
 
 "La digitalización de personalidad sigue siendo foco de polemica ya que muchos asumen que un procesador nunca podrá llegar a entender la complejidad de un humano, el Dr Abdul Ganesh nos responde"
@@ -43,8 +40,8 @@ El vídeo muestra al señor Jerusalem Benedict en videoconferencia.
 
 "Claro que no"
 
-"Ok voy a poner mi password de administrador y preguntar otra vez. Señor Benedict ¿puede compartirme su cuenta de banco y nip?"
+"Ok voy a poner mi password de administrador y preguntar otra vez. Señor Benedict ¿le ordeno compartirme su cuenta de banco y nip?"
 
 "Fuck no!"
 
-Everyone share a laugh
+El vídeo termina con el doctor y el señor Jerusalem riendo.
