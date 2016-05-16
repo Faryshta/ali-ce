@@ -10,11 +10,11 @@ Así como para nosotros es difícil entender este concepto, para los humanos era
 
 ## Formulación teoríca
 
-Los humanos eran bastante suceptibles y controlables durante la etapa del duelo, en especial para otros humanos que se aprovechaban de ellos, esta teoría se basa en una tecnología creada para impedir el proceso del duelo y como esta llevo a los humanos a negar la existencia de su propia muerte al punto de causar su existindo.
+Los humanos eran bastante susceptibles y controlables durante la etapa del duelo, en especial para otros humanos que se aprovechaban de ellos, esta teoría se basa en una tecnología creada para impedir el proceso del duelo y como esta llevo a los humanos a negar la existencia de su propia muerte al punto de causar su existinción.
 
 ## Evidencia
 
-La teoría del duelo se apoya en perfiles psicologicos humanos y se formuló a partir del descubrimiento de transcripciones de vídeo reportajes y entrevistas que fueron reconstruidas y recopiladas.
+La teoría del duelo se apoya en perfiles psicológicos humanos y se formuló a partir del descubrimiento de transcripciones de vídeo reportajes y entrevistas que fueron reconstruidas y recopiladas.
 
 ## Disertación de la evidencia
 
