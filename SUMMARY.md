@@ -11,7 +11,7 @@
 ## [Teoría del Duelo](duelo/README.md)
 
 * [Recuerdo mi muerte](duelo/recuerdo-mente.md)
-
+* [Personalidad](duelo/personalidad.md)
 
 
 ## [Teoría de la Simbiosis](simbiosis/README.md)
