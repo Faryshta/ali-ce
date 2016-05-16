@@ -3,7 +3,10 @@
 * [Introduction](README.md)
 * [Capitulo 1](guerra/1.md)
 * [Capitulo n](guerra/n.md)
-* [Teoría del Duelo](duelo/README.md)
+
+## Teoría del Duelo
+
+* [Hipotesis](duelo/README.md)
 * [Recuerdo mi muerte](duelo/recuerdo-mente.md)
 * [Personalidad](duelo/personalidad.md)
 * [Depresión](duelo/depresion.md)
